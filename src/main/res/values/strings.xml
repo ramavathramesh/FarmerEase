@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FarmerEase</string>
+    <string-array name="veg">
+        <item>tomato</item>
+        <item>ladyfinger</item>
+        <item>greenchilli</item>
+        <item>carrot</item>
+        <item>beetroot</item>
+        <item>cabbage</item>
+        <item>cauliflower</item>
+        <item>onion</item>
+        <item>corn</item>
+        <item>potato</item>
+    </string-array>
+</resources>
